@@ -25,7 +25,7 @@ This project is shared on GitHub for educational and security testing purposes. 
 ## Keywords
 
 azrail shell  
-**azrail shell download ** 
+azrail shell download
 php shell  
 webshell  
 security testing  
