@@ -41,4 +41,4 @@ https://c99shell.com/
 
 This project is provided for research and educational purposes only.
 
-© 2025 Azrail Shell Project
+© 2026 Azrail Shell Project
