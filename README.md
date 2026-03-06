@@ -5,9 +5,7 @@
 This repository shares Azrail Shell archive scripts including **PHP shell** management interfaces. The project is shared for security research and learning purposes only.
 
 ## About Azrail Shell
-<p align="center">
-<img src="github.com/c99shellphp/azrail-shell/blob/main/azrailphp.png?raw=true" width="900">
-</p>
+![Azrail PHP Shell](https://raw.githubusercontent.com/c99shellphp/azrail-shell/main/azrailphp.png)
 Azrail Shell is a lightweight PHP webshell archive that allows researchers to study server interaction methods used in web-based shell interfaces.
 
 Tools like Azrail Shell are often analyzed by security professionals to understand server security risks and improve defensive mechanisms.
