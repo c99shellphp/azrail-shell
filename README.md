@@ -6,7 +6,7 @@ This repository shares Azrail Shell archive scripts including **PHP shell** mana
 
 ## About Azrail Shell
 <p align="center">
-<img src="https://raw.githubusercontent.com/c99shellphp/c99-php-shell/refs/heads/main/C99%20Shell%20%C4%B0MG.jpeg" width="900">
+<img src="github.com/c99shellphp/azrail-shell/blob/main/azrailphp.png?raw=true" width="900">
 </p>
 Azrail Shell is a lightweight PHP webshell archive that allows researchers to study server interaction methods used in web-based shell interfaces.
 
